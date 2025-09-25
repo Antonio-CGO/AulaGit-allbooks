@@ -3,6 +3,9 @@
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
+# Nota do Desenvolvedor 
+Este é um projeto desenvolvido durante a formação DevOps da Alura. O objetivo principal foi aplicar na prática conceitos de versionamento com Git, automação de CI com GitHub Actions e gerenciamento de segurança com Dependabot.
+
 # JSONServer + JWT Auth
 
 Essa é ma API Rest mockada, utilizando json-server e JWT.
@@ -70,4 +73,5 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 
 ```
 Authorization: Bearer <ACCESS_TOKEN>
+
 ```
